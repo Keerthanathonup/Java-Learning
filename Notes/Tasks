@@ -36,3 +36,5 @@
 	4. git add . (Will add all the files to repository) or git add <<filename>>
 	5. git commit -m "<<Comments on what changes you have done>>"
 	6. git push
+
+ 6. Complete all the ingeritence examples
